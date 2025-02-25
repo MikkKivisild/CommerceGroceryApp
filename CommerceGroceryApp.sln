@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommerceGroceryApp", "CommerceGroceryApp.csproj", "{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FF8E520-1F43-4CD1-B205-0668F79A9BA7}
+	EndGlobalSection
+EndGlobal
