@@ -6,6 +6,7 @@
 
     <Color x:Key="Primary">#ff6347</Color>
     <Color x:Key="Secondary">#ff5733</Color>
+    <Color x:Key="Mid">#F2431D</Color>
     <Color x:Key="Tertiary">#2B0B98</Color>
     <Color x:Key="White">White</Color>
     <Color x:Key="Black">Black</Color>

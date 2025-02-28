@@ -6,14 +6,39 @@
     xmlns:local="clr-namespace:CommerceGroceryApp"
     Shell.FlyoutBehavior="Disabled"
     xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
-    
+    xmlns:pages="clr-namespace;CommerceGroceryApp;Pages"
+    Shell.TabBarBackgroundColor="{StaticResource Mid}"
+    Shell.TabBarTitleColor="{StaticResource White}"
+    Shell.BackgroundColor="{StaticResource Mid}">
+
     <Shell.Behaviors>
-        <toolkit::StatusBarBehavior StatusBarColor="{StaticResource Primary}"/>
+        <toolkit:StatusBarBehavior StatusBarColor="{StaticResource Primary}"/>
     </Shell.Behaviors>
         
-    <ShellContent
+    <!--<ShellContent
         Title="FruitVeg Basket"
         ContentTemplate="{DataTemplate local:MainPage}"
-        Route="MainPage" />
-
+        Route="MainPage" />-->
+    <TabBar>
+        <ShellContent Title="Home"
+                      Icon="bx-home"
+                      ContentTemplate="{DataTemplate pages:HomePage}"
+                      Route="HomePage"/>
+        <ShellContent Title="CategoriesPage"
+                      Icon="bx-category"
+                      ContentTemplate="{DataTemplate pages:CategoriesPage}"
+                      Route="CategoriesPage"/>
+        <ShellContent Title="Orders"
+               Icon="bx-list-ul"
+               ContentTemplate="{DataTemplate pages:OrdersPage}"
+               Route="OrdersPage"/>
+        <ShellContent Title="Profile"
+               Icon="bx-user"
+               ContentTemplate="{DataTemplate pages:ProfilePage}"
+               Route="ProfilePage"/>
+        <ShellContent Title="Help"
+               Icon="bx-help-circle"
+               ContentTemplate="{DataTemplate pages:HelpPage}"
+               Route="HelpPage"/>
+    </TabBar>
 </Shell>
