@@ -3,27 +3,62 @@
   "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\AppShell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AppShell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|c:\\users\\opilane\\source\\repos\\commercegroceryapp\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|c:\\users\\opilane\\source\\repos\\commercegroceryapp\\viewmodels\\homepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|solutionrelative:viewmodels\\homepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|c:\\users\\opilane\\source\\repos\\commercegroceryapp\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|solutionrelative:pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|c:\\users\\opilane\\source\\repos\\commercegroceryapp\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|solutionrelative:pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|c:\\users\\opilane\\source\\repos\\commercegroceryapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|c:\\users\\opilane\\source\\repos\\commercegroceryapp\\enumerations\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|solutionrelative:enumerations\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|c:\\users\\opilane\\source\\repos\\commercegroceryapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\buildTransitive\\CommunityToolkit.Mvvm.WindowsSdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|c:\\users\\opilane\\source\\repos\\commercegroceryapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|c:\\users\\opilane\\source\\repos\\commercegroceryapp\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|c:\\users\\opilane\\source\\repos\\commercegroceryapp\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|solutionrelative:resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|c:\\users\\opilane\\source\\repos\\commercegroceryapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\.nuget\\packages\\communitytoolkit.maui\\5.2.0\\ReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\Resources\\Styles\\Colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Resources\\Styles\\Colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|c:\\users\\opilane\\source\\repos\\commercegroceryapp\\commercegroceryapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|solutionrelative:commercegroceryapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\CommerceGroceryApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CommerceGroceryApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\MauiProgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiProgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|c:\\users\\opilane\\source\\repos\\commercegroceryapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,7 +68,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,6 +121,136 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\Pages\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\Pages\\HomePage.xaml.cs",
+              "RelativeToolTip": "Pages\\HomePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T13:31:35.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\Pages\\HomePage.xaml",
+              "RelativeDocumentMoniker": "Pages\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\Pages\\HomePage.xaml",
+              "RelativeToolTip": "Pages\\HomePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-03T13:31:16.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\ViewModels\\HomePageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\HomePageViewModel.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\ViewModels\\HomePageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\HomePageViewModel.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T12:59:51.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwDkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:20:40.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\Enumerations\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Enumerations\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\Enumerations\\OrderStatus.cs",
+              "RelativeToolTip": "Enumerations\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:09:00.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:06:43.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:06:42.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:11:32.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\Models\\CartItem.cs",
+              "RelativeToolTip": "Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:06:41.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommunityToolkit.Mvvm.WindowsSdk.targets",
+              "DocumentMoniker": "C:\\Users\\opilane\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\buildTransitive\\CommunityToolkit.Mvvm.WindowsSdk.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\buildTransitive\\CommunityToolkit.Mvvm.WindowsSdk.targets",
+              "ToolTip": "C:\\Users\\opilane\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\buildTransitive\\CommunityToolkit.Mvvm.WindowsSdk.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\buildTransitive\\CommunityToolkit.Mvvm.WindowsSdk.targets",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAwFAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-03T11:06:30.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Colors.xaml",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\Resources\\Styles\\Colors.xaml",
               "RelativeDocumentMoniker": "Resources\\Styles\\Colors.xaml",
@@ -93,11 +258,12 @@
               "RelativeToolTip": "Resources\\Styles\\Colors.xaml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAACoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-25T09:28:59.267Z"
+              "WhenOpened": "2025-02-25T09:28:59.267Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\AppShell.xaml",
               "RelativeDocumentMoniker": "AppShell.xaml",
@@ -110,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "ReadMe.txt",
               "DocumentMoniker": "C:\\Users\\opilane\\.nuget\\packages\\communitytoolkit.maui\\5.2.0\\ReadMe.txt",
               "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\communitytoolkit.maui\\5.2.0\\ReadMe.txt",
@@ -122,11 +288,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "CommerceGroceryApp.csproj",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\CommerceGroceryApp.csproj",
+              "DocumentMoniker": "C:\\Users\\opilane\\Source\\Repos\\CommerceGroceryApp\\CommerceGroceryApp.csproj",
               "RelativeDocumentMoniker": "CommerceGroceryApp.csproj",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\CommerceGroceryApp.csproj",
+              "ToolTip": "C:\\Users\\opilane\\Source\\Repos\\CommerceGroceryApp\\CommerceGroceryApp.csproj",
               "RelativeToolTip": "CommerceGroceryApp.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -134,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -143,18 +309,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-25T09:13:52.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "MauiProgram.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\MauiProgram.cs",
-              "RelativeToolTip": "MauiProgram.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T09:11:32.767Z"
             }
           ]
         },

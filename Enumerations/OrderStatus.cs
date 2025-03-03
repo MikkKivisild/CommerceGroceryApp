@@ -1,6 +1,6 @@
 ﻿namespace Models
 {
-    public enum OrderSatus
+    public enum OrderStatus
     {
         Placed = 0,
         Confirmed = 1,
