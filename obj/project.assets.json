@@ -87091,6 +87091,7 @@
   "projectFileDependencyGroups": {
     "net8.0-android34.0": [
       "CommunityToolkit.Maui >= 5.2.0",
+      "CommunityToolkit.Maui.Core >= 5.2.0",
       "CommunityToolkit.Mvvm >= 8.4.0",
       "ExchangeAPI >= 1.543.1922",
       "Microsoft.Extensions.Logging.Debug >= 9.0.2",
@@ -87101,6 +87102,7 @@
     ],
     "net8.0-ios17.2": [
       "CommunityToolkit.Maui >= 5.2.0",
+      "CommunityToolkit.Maui.Core >= 5.2.0",
       "CommunityToolkit.Mvvm >= 8.4.0",
       "ExchangeAPI >= 1.543.1922",
       "Microsoft.Extensions.Logging.Debug >= 9.0.2",
@@ -87111,6 +87113,7 @@
     ],
     "net8.0-maccatalyst17.2": [
       "CommunityToolkit.Maui >= 5.2.0",
+      "CommunityToolkit.Maui.Core >= 5.2.0",
       "CommunityToolkit.Mvvm >= 8.4.0",
       "ExchangeAPI >= 1.543.1922",
       "Microsoft.Extensions.Logging.Debug >= 9.0.2",
@@ -87121,6 +87124,7 @@
     ],
     "net8.0-windows10.0.19041": [
       "CommunityToolkit.Maui >= 5.2.0",
+      "CommunityToolkit.Maui.Core >= 5.2.0",
       "CommunityToolkit.Mvvm >= 8.4.0",
       "ExchangeAPI >= 1.543.1922",
       "Microsoft.Extensions.Logging.Debug >= 9.0.2",
@@ -87199,6 +87203,10 @@
             "target": "Package",
             "version": "[5.2.0, )"
           },
+          "CommunityToolkit.Maui.Core": {
+            "target": "Package",
+            "version": "[5.2.0, )"
+          },
           "CommunityToolkit.Mvvm": {
             "target": "Package",
             "version": "[8.4.0, )"
@@ -87258,6 +87266,10 @@
             "target": "Package",
             "version": "[5.2.0, )"
           },
+          "CommunityToolkit.Maui.Core": {
+            "target": "Package",
+            "version": "[5.2.0, )"
+          },
           "CommunityToolkit.Mvvm": {
             "target": "Package",
             "version": "[8.4.0, )"
@@ -87314,6 +87326,10 @@
         "targetAlias": "net8.0-maccatalyst",
         "dependencies": {
           "CommunityToolkit.Maui": {
+            "target": "Package",
+            "version": "[5.2.0, )"
+          },
+          "CommunityToolkit.Maui.Core": {
             "target": "Package",
             "version": "[5.2.0, )"
           },
@@ -87377,6 +87393,10 @@
             "target": "Package",
             "version": "[5.2.0, )"
           },
+          "CommunityToolkit.Maui.Core": {
+            "target": "Package",
+            "version": "[5.2.0, )"
+          },
           "CommunityToolkit.Mvvm": {
             "target": "Package",
             "version": "[8.4.0, )"
@@ -87413,6 +87433,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.Windows.SDK.NET.Ref",
+            "version": "[10.0.19041.53, 10.0.19041.53]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

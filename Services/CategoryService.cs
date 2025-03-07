@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Services
 {
-    class CategoryService
+    public class CategoryService
     {
         private IEnumerable<Category>? _categories;
         public async ValueTask<IEnumerable<Category>> GetCategoriesAsync()

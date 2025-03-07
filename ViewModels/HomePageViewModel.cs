@@ -1,15 +1,12 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 using Models;
 using Services;
-using System;
-using System.Collections.Generic;
 using System.Collections.ObjectModel;
-using System.Security.Cryptography.X509Certificates;
-using System.Text;
+
 
 namespace ViewModels
 {
-    public class HomePageViewModel : ObservableObject
+    public partial class HomePageViewModel : ObservableObject
     {
         private readonly CategoryService _categoryService;
 
