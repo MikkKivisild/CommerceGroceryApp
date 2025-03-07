@@ -87136,11 +87136,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\Source\\Repos\\CommerceGroceryApp\\CommerceGroceryApp.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\CommerceGroceryApp.csproj",
       "projectName": "CommerceGroceryApp",
-      "projectPath": "C:\\Users\\opilane\\Source\\Repos\\CommerceGroceryApp\\CommerceGroceryApp.csproj",
+      "projectPath": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\CommerceGroceryApp.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\Source\\Repos\\CommerceGroceryApp\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
