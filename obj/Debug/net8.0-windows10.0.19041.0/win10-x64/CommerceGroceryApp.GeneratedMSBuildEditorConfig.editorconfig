@@ -13,71 +13,71 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CommerceGroceryApp
-build_property.ProjectDir = C:\Users\opilane\source\repos\CommerceGroceryApp\
+build_property.ProjectDir = C:\Users\opilane\Source\Repos\CommerceGroceryApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/opilane/source/repos/CommerceGroceryApp/App.xaml]
+[C:/Users/opilane/Source/Repos/CommerceGroceryApp/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CommerceGroceryApp.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/opilane/source/repos/CommerceGroceryApp/AppShell.xaml]
+[C:/Users/opilane/Source/Repos/CommerceGroceryApp/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CommerceGroceryApp.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/opilane/source/repos/CommerceGroceryApp/MainPage.xaml]
+[C:/Users/opilane/Source/Repos/CommerceGroceryApp/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CommerceGroceryApp.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/opilane/source/repos/CommerceGroceryApp/Pages/BasketPage.xaml]
+[C:/Users/opilane/Source/Repos/CommerceGroceryApp/Pages/BasketPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CommerceGroceryApp.Pages.BasketPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\BasketPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\BasketPage.xaml
 
-[C:/Users/opilane/source/repos/CommerceGroceryApp/Pages/CategoriesPage.xaml]
+[C:/Users/opilane/Source/Repos/CommerceGroceryApp/Pages/CategoriesPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CommerceGroceryApp.Pages.CategoriesPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\CategoriesPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\CategoriesPage.xaml
 
-[C:/Users/opilane/source/repos/CommerceGroceryApp/Pages/HelpPage.xaml]
+[C:/Users/opilane/Source/Repos/CommerceGroceryApp/Pages/HelpPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CommerceGroceryApp.Pages.HelpPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\HelpPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\HelpPage.xaml
 
-[C:/Users/opilane/source/repos/CommerceGroceryApp/Pages/HomePage.xaml]
+[C:/Users/opilane/Source/Repos/CommerceGroceryApp/Pages/HomePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CommerceGroceryApp.Pages.HomePage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\HomePage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\HomePage.xaml
 
-[C:/Users/opilane/source/repos/CommerceGroceryApp/Pages/OrdersPage.xaml]
+[C:/Users/opilane/Source/Repos/CommerceGroceryApp/Pages/OrdersPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CommerceGroceryApp.Pages.OrdersPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\OrdersPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\OrdersPage.xaml
 
-[C:/Users/opilane/source/repos/CommerceGroceryApp/Pages/ProfilePage.xaml]
+[C:/Users/opilane/Source/Repos/CommerceGroceryApp/Pages/ProfilePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CommerceGroceryApp.Pages.ProfilePage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\ProfilePage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\ProfilePage.xaml
 
-[C:/Users/opilane/source/repos/CommerceGroceryApp/Resources/Styles/Colors.xaml]
+[C:/Users/opilane/Source/Repos/CommerceGroceryApp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CommerceGroceryApp.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/opilane/source/repos/CommerceGroceryApp/Resources/Styles/Styles.xaml]
+[C:/Users/opilane/Source/Repos/CommerceGroceryApp/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CommerceGroceryApp.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
