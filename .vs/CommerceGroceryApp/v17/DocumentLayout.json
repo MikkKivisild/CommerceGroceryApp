@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|solutionrelative:pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|c:\\users\\opilane\\source\\repos\\commercegroceryapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|c:\\users\\opilane\\source\\repos\\commercegroceryapp\\viewmodels\\homepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F424A6EC-92EF-41CC-91DD-0F7B1BBC3BB9}|CommerceGroceryApp.csproj|solutionrelative:viewmodels\\homepageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -79,19 +83,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HomePageViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\ViewModels\\HomePageViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\HomePageViewModel.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\ViewModels\\HomePageViewModel.cs",
-              "RelativeToolTip": "ViewModels\\HomePageViewModel.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAlwBkAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T12:07:03.175Z",
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-10T12:14:44.985Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -99,12 +103,11 @@
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAcwAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T12:05:36.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T12:05:36.309Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Spacer.xaml.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\Controls\\Spacer.xaml.cs",
               "RelativeDocumentMoniker": "Controls\\Spacer.xaml.cs",
@@ -112,12 +115,11 @@
               "RelativeToolTip": "Controls\\Spacer.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T11:35:28.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T11:35:28.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Spacer.xaml",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\Controls\\Spacer.xaml",
               "RelativeDocumentMoniker": "Controls\\Spacer.xaml",
@@ -125,12 +127,11 @@
               "RelativeToolTip": "Controls\\Spacer.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-10T11:35:21.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T11:35:21.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Styles.xaml",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\Resources\\Styles\\Styles.xaml",
               "RelativeDocumentMoniker": "Resources\\Styles\\Styles.xaml",
@@ -143,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\MauiProgram.cs",
               "RelativeDocumentMoniker": "MauiProgram.cs",
@@ -161,10 +162,22 @@
               "RelativeDocumentMoniker": "Pages\\HomePage.xaml",
               "ToolTip": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\Pages\\HomePage.xaml",
               "RelativeToolTip": "Pages\\HomePage.xaml",
-              "ViewState": "AQIAAEUAAAAAAAAAAAArwFsAAABSAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAArwEoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-10T10:55:44.208Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\ViewModels\\HomePageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\HomePageViewModel.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\ViewModels\\HomePageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\HomePageViewModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAlwBkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:07:03.175Z"
             }
           ]
         }
