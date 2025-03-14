@@ -1,0 +1,11 @@
+C:\Users\opilane\Source\Repos\CommerceGroceryApp.Shared\bin\Debug\net8.0\CommerceGroceryApp.Shared.deps.json
+C:\Users\opilane\Source\Repos\CommerceGroceryApp.Shared\bin\Debug\net8.0\CommerceGroceryApp.Shared.dll
+C:\Users\opilane\Source\Repos\CommerceGroceryApp.Shared\bin\Debug\net8.0\CommerceGroceryApp.Shared.pdb
+C:\Users\opilane\Source\Repos\CommerceGroceryApp.Shared\obj\Debug\net8.0\CommerceGroceryApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\Source\Repos\CommerceGroceryApp.Shared\obj\Debug\net8.0\CommerceGroceryApp.Shared.AssemblyInfoInputs.cache
+C:\Users\opilane\Source\Repos\CommerceGroceryApp.Shared\obj\Debug\net8.0\CommerceGroceryApp.Shared.AssemblyInfo.cs
+C:\Users\opilane\Source\Repos\CommerceGroceryApp.Shared\obj\Debug\net8.0\CommerceGroceryApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Source\Repos\CommerceGroceryApp.Shared\obj\Debug\net8.0\CommerceGroceryApp.Shared.dll
+C:\Users\opilane\Source\Repos\CommerceGroceryApp.Shared\obj\Debug\net8.0\refint\CommerceGroceryApp.Shared.dll
+C:\Users\opilane\Source\Repos\CommerceGroceryApp.Shared\obj\Debug\net8.0\CommerceGroceryApp.Shared.pdb
+C:\Users\opilane\Source\Repos\CommerceGroceryApp.Shared\obj\Debug\net8.0\ref\CommerceGroceryApp.Shared.dll
