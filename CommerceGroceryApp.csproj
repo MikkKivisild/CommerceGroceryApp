@@ -68,6 +68,10 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <ProjectReference Include="..\CommerceGroceryApp.Shared\CommerceGroceryApp.Shared.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
 	  <MauiXaml Update="Controls\Spacer.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>

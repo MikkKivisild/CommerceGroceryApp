@@ -3014,6 +3014,16 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        }
       }
     },
     "net8.0-android34.0/android-arm": {
@@ -5950,6 +5960,16 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
+        }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
         }
       }
     },
@@ -8888,6 +8908,16 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        }
       }
     },
     "net8.0-android34.0/android-x64": {
@@ -11824,6 +11854,16 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
+        }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
         }
       }
     },
@@ -14762,6 +14802,16 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        }
       }
     },
     "net8.0-android34.0/iossimulator-x64": {
@@ -17699,6 +17749,16 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        }
       }
     },
     "net8.0-android34.0/maccatalyst-x64": {
@@ -20635,6 +20695,16 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
+        }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
         }
       }
     },
@@ -23576,6 +23646,16 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        }
       }
     },
     "net8.0-ios17.2": {
@@ -25541,6 +25621,16 @@
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
+        }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
         }
       }
     },
@@ -27801,6 +27891,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        }
       }
     },
     "net8.0-ios17.2/android-arm64": {
@@ -30059,6 +30159,16 @@
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
+        }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
         }
       }
     },
@@ -32319,6 +32429,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        }
       }
     },
     "net8.0-ios17.2/android-x86": {
@@ -34577,6 +34697,16 @@
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
+        }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
         }
       }
     },
@@ -36837,6 +36967,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        }
       }
     },
     "net8.0-ios17.2/maccatalyst-x64": {
@@ -39096,6 +39236,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        }
       }
     },
     "net8.0-ios17.2/win10-x64": {
@@ -41354,6 +41504,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        }
       }
     },
     "net8.0-maccatalyst17.2": {
@@ -43319,6 +43479,16 @@
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
+        }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
         }
       }
     },
@@ -45579,6 +45749,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        }
       }
     },
     "net8.0-maccatalyst17.2/android-arm64": {
@@ -47837,6 +48017,16 @@
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
+        }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
         }
       }
     },
@@ -50097,6 +50287,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        }
       }
     },
     "net8.0-maccatalyst17.2/android-x86": {
@@ -52355,6 +52555,16 @@
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
+        }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
         }
       }
     },
@@ -54615,6 +54825,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        }
       }
     },
     "net8.0-maccatalyst17.2/maccatalyst-x64": {
@@ -56874,6 +57094,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        }
       }
     },
     "net8.0-maccatalyst17.2/win10-x64": {
@@ -59132,6 +59362,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        }
       }
     },
     "net8.0-windows10.0.19041": {
@@ -61277,6 +61517,16 @@
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
+        }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
         }
       }
     },
@@ -63671,6 +63921,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        }
       }
     },
     "net8.0-windows10.0.19041/android-arm64": {
@@ -66063,6 +66323,16 @@
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
+        }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
         }
       }
     },
@@ -68457,6 +68727,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        }
       }
     },
     "net8.0-windows10.0.19041/android-x86": {
@@ -70849,6 +71129,16 @@
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
+        }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
         }
       }
     },
@@ -73243,6 +73533,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        }
       }
     },
     "net8.0-windows10.0.19041/maccatalyst-x64": {
@@ -75635,6 +75935,16 @@
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
+        }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
         }
       }
     },
@@ -78033,6 +78343,16 @@
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
+        }
+      },
+      "CommerceGroceryApp.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CommerceGroceryApp.Shared.dll": {}
         }
       }
     }
@@ -87086,10 +87406,16 @@
         "xamarin.kotlinx.coroutines.core.jvm.1.7.2.1.nupkg.sha512",
         "xamarin.kotlinx.coroutines.core.jvm.nuspec"
       ]
+    },
+    "CommerceGroceryApp.Shared/1.0.0": {
+      "type": "project",
+      "path": "../CommerceGroceryApp.Shared/CommerceGroceryApp.Shared.csproj",
+      "msbuildProject": "../CommerceGroceryApp.Shared/CommerceGroceryApp.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0-android34.0": [
+      "CommerceGroceryApp.Shared >= 1.0.0",
       "CommunityToolkit.Maui >= 5.2.0",
       "CommunityToolkit.Maui.Core >= 5.2.0",
       "CommunityToolkit.Mvvm >= 8.4.0",
@@ -87101,6 +87427,7 @@
       "Microsoft.UI.Xaml >= 2.8.2"
     ],
     "net8.0-ios17.2": [
+      "CommerceGroceryApp.Shared >= 1.0.0",
       "CommunityToolkit.Maui >= 5.2.0",
       "CommunityToolkit.Maui.Core >= 5.2.0",
       "CommunityToolkit.Mvvm >= 8.4.0",
@@ -87112,6 +87439,7 @@
       "Microsoft.UI.Xaml >= 2.8.2"
     ],
     "net8.0-maccatalyst17.2": [
+      "CommerceGroceryApp.Shared >= 1.0.0",
       "CommunityToolkit.Maui >= 5.2.0",
       "CommunityToolkit.Maui.Core >= 5.2.0",
       "CommunityToolkit.Mvvm >= 8.4.0",
@@ -87123,6 +87451,7 @@
       "Microsoft.UI.Xaml >= 2.8.2"
     ],
     "net8.0-windows10.0.19041": [
+      "CommerceGroceryApp.Shared >= 1.0.0",
       "CommunityToolkit.Maui >= 5.2.0",
       "CommunityToolkit.Maui.Core >= 5.2.0",
       "CommunityToolkit.Mvvm >= 8.4.0",
@@ -87140,11 +87469,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\CommerceGroceryApp.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\Source\\Repos\\CommerceGroceryApp\\CommerceGroceryApp.csproj",
       "projectName": "CommerceGroceryApp",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\CommerceGroceryApp.csproj",
+      "projectPath": "C:\\Users\\opilane\\Source\\Repos\\CommerceGroceryApp\\CommerceGroceryApp.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\source\\repos\\CommerceGroceryApp\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\Source\\Repos\\CommerceGroceryApp\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
@@ -87169,19 +87498,35 @@
       "frameworks": {
         "net8.0-android34.0": {
           "targetAlias": "net8.0-android",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\opilane\\Source\\Repos\\CommerceGroceryApp.Shared\\CommerceGroceryApp.Shared.csproj": {
+              "projectPath": "C:\\Users\\opilane\\Source\\Repos\\CommerceGroceryApp.Shared\\CommerceGroceryApp.Shared.csproj"
+            }
+          }
         },
         "net8.0-ios17.2": {
           "targetAlias": "net8.0-ios",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\opilane\\Source\\Repos\\CommerceGroceryApp.Shared\\CommerceGroceryApp.Shared.csproj": {
+              "projectPath": "C:\\Users\\opilane\\Source\\Repos\\CommerceGroceryApp.Shared\\CommerceGroceryApp.Shared.csproj"
+            }
+          }
         },
         "net8.0-maccatalyst17.2": {
           "targetAlias": "net8.0-maccatalyst",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\opilane\\Source\\Repos\\CommerceGroceryApp.Shared\\CommerceGroceryApp.Shared.csproj": {
+              "projectPath": "C:\\Users\\opilane\\Source\\Repos\\CommerceGroceryApp.Shared\\CommerceGroceryApp.Shared.csproj"
+            }
+          }
         },
         "net8.0-windows10.0.19041": {
           "targetAlias": "net8.0-windows10.0.19041.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\opilane\\Source\\Repos\\CommerceGroceryApp.Shared\\CommerceGroceryApp.Shared.csproj": {
+              "projectPath": "C:\\Users\\opilane\\Source\\Repos\\CommerceGroceryApp.Shared\\CommerceGroceryApp.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -43,7 +43,7 @@
         </ResourceDictionary>
     </ContentPage.Resources>
     
-    <VerticalStackLayout>
+    <VerticalStackLayout Padding="10, 15">
         <Label>
             <Label.FormattedText>
                 <FormattedString>

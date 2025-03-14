@@ -1,4 +1,6 @@
-﻿namespace Models
+﻿using CommerceGroceryApp.Shared.Enumerations;
+
+namespace Models
 {
     public class Order
     {
